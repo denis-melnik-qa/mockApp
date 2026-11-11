@@ -1,4 +1,4 @@
-- # mockApp
+# mockApp
 A Java-based stub (mock service) built with Spring Boot and Maven.
 The stub implements a REST API with GET and POST methods:
 - **GET** returns a static JSON: `{"login":"Login1","status":"ok"}`
